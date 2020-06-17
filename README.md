@@ -28,8 +28,8 @@ Following actions should be performed:
 Project Details('https://lms.simplilearn.com/courses/2789/Machine-Learning/assessment')
 
 # DataSet
-train =  dataset for Costa rica training data. 
-test  =  dataset for Costa rica testing data
+* train =  dataset for Costa rica training data. 
+* test  =  dataset for Costa rica testing data
 
 # Project passed by Evaluator and certicate received for the course after gaining expertise and completing simulations of the course.
 link (https://lms.simplilearn.com/courses/2789/Machine-Learning/certificate/download)
